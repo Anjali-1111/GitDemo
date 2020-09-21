@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: MavenTutorials.MavenLearn.Demo2Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.95 s - in MavenTutorials.MavenLearn.Demo2Test

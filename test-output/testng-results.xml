@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76084" started-at="2020-09-02T21:17:31 IST" finished-at="2020-09-02T21:18:48 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76084" started-at="2020-09-02T21:17:31 IST" finished-at="2020-09-02T21:18:48 IST">
+      <class name="MavenTutorials.MavenLearn.ExtendReportExample">
+        <test-method status="PASS" signature="config()[pri:0, instance:MavenTutorials.MavenLearn.ExtendReportExample@64729b1e]" name="config" is-config="true" duration-ms="1493" started-at="2020-09-02T21:17:31 IST" finished-at="2020-09-02T21:17:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="BrowserOpening()[pri:0, instance:MavenTutorials.MavenLearn.ExtendReportExample@64729b1e]" name="BrowserOpening" duration-ms="74492" started-at="2020-09-02T21:17:33 IST" finished-at="2020-09-02T21:18:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserOpening -->
+      </class> <!-- MavenTutorials.MavenLearn.ExtendReportExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
